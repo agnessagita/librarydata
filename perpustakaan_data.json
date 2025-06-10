@@ -1,0 +1,48 @@
+{
+    "buku": [
+        {
+            "judul": "Sang Pemimpi",
+            "pengarang": "Andrea Hirata",
+            "jumlah": 5
+        },
+        {
+            "judul": "Sangkuriang",
+            "pengarang": "Yuliadi Soekardi",
+            "jumlah": 5
+        },
+        {
+            "judul": "Bumi Manusia",
+            "pengarang": "Pramoedya Ananta Toer",
+            "jumlah": 5
+        },
+        {
+            "judul": "Saman ",
+            "pengarang": "Ayu Utami",
+            "jumlah": 4
+        }
+    ],
+    "anggota": [
+        {
+            "nama": "Agnes",
+            "id_anggota": "12S4",
+            "buku_dipinjam": []
+        },
+        {
+            "nama": "Rani",
+            "id_anggota": "12S3",
+            "buku_dipinjam": [
+                "Saman "
+            ]
+        },
+        {
+            "nama": "Nabila",
+            "id_anggota": "12S2",
+            "buku_dipinjam": []
+        },
+        {
+            "nama": "Rindu",
+            "id_anggota": "12S1",
+            "buku_dipinjam": []
+        }
+    ]
+}
